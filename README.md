@@ -12,7 +12,7 @@ Finally, vertex of transects are updated so that a vertex spatially located in G
 |:--:|
 | *Examples of frequency distributions of fault throw, heave, angles and length ratio (uncorrected/reshaped) for a population of ridge-ward facing fault scarps.* 
 
-| ![alt text](https://raw.githubusercontent.com/cjuliani/arcgis-landslide-spatial-quantification/master/tectonic_extension.PNG) |
+| ![alt text](https://raw.githubusercontent.com/cjuliani/arcgis-landslide-spatial-quantification/master/tectonic_extension_.PNG) |
 |:--:|
 | *Cumulative apparent heave profiles for transects sampled throughout the ridge. Tectonic strain is indicated in percentage. Note the flat-ramp configuration below 10% strain where flats represent areas lacking fault scarp.* 
 
